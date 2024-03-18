@@ -1,3 +1,6 @@
+<!-- Language: Dart -->
+
+
 # gezi_rehberim
 
 A new Flutter project.
