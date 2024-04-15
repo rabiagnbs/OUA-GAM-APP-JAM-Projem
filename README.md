@@ -1,5 +1,4 @@
-<!-- Language: Dart -->
-
+Merhabalar uygulamama dair gerekli kullanım bilgilerini Youtube short videom üzerinden izleyebilirsiniz: https://www.youtube.com/shorts/ODoFVVLjUFE
 
 # gezi_rehberim
 
